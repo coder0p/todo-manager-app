@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/todo-manager-app/static/css/main.4286d4d2.chunk.css",
+    "main.js": "/todo-manager-app/static/js/main.70ce26fe.chunk.js",
+    "main.js.map": "/todo-manager-app/static/js/main.70ce26fe.chunk.js.map",
+    "runtime-main.js": "/todo-manager-app/static/js/runtime-main.f0587067.js",
+    "runtime-main.js.map": "/todo-manager-app/static/js/runtime-main.f0587067.js.map",
+    "static/js/2.20f96e63.chunk.js": "/todo-manager-app/static/js/2.20f96e63.chunk.js",
+    "static/js/2.20f96e63.chunk.js.map": "/todo-manager-app/static/js/2.20f96e63.chunk.js.map",
+    "index.html": "/todo-manager-app/index.html",
+    "static/css/main.4286d4d2.chunk.css.map": "/todo-manager-app/static/css/main.4286d4d2.chunk.css.map",
+    "static/js/2.20f96e63.chunk.js.LICENSE.txt": "/todo-manager-app/static/js/2.20f96e63.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/todo-manager-app/static/media/bg.e2739c0c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0587067.js",
+    "static/js/2.20f96e63.chunk.js",
+    "static/css/main.4286d4d2.chunk.css",
+    "static/js/main.70ce26fe.chunk.js"
+  ]
+}
